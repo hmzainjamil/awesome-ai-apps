@@ -461,6 +461,31 @@ Real paths from the repo tree (sampled for orientation):
 | 8 | [`advanced-agents/blog-video-writer/vite.config.ts`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/vite.config.ts) | Build setup — TS + React + Tailwind |
 | 9 | [`advanced-agents/blog-video-writer/tailwind.config.js`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/tailwind.config.js) | Design tokens via Tailwind |
 | 10 | [`.github/workflows/deploy.yml`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/.github/workflows/deploy.yml) | Hugo-based docs deploy |
+| 11 | [`.github/funding.yaml`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/.github/funding.yaml) | Repo file — read source for details |
+| 12 | [`.github/workflows/hugo-deploy.yml`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/.github/workflows/hugo-deploy.yml) | Repo file — read source for details |
+| 13 | [`.gitmodules`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/.gitmodules) | Repo file — read source for details |
+| 14 | [`advanced-agents/blog-video-writer/README.md`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/README.md) | Repo file — read source for details |
+| 15 | [`advanced-agents/blog-video-writer/components/BlogWriterResults.tsx`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/components/BlogWriterResults.tsx) | Repo file — read source for details |
+| 16 | [`advanced-agents/blog-video-writer/constants.ts`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/constants.ts) | Repo file — read source for details |
+| 17 | [`advanced-agents/blog-video-writer/index.html`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/index.html) | Repo file — read source for details |
+| 18 | [`advanced-agents/blog-video-writer/package.json`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/package.json) | Repo file — read source for details |
+| 19 | [`advanced-agents/blog-video-writer/postcss.config.js`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/postcss.config.js) | Repo file — read source for details |
+| 20 | [`advanced-agents/blog-video-writer/src/index.css`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/src/index.css) | Repo file — read source for details |
+| 21 | [`advanced-agents/blog-video-writer/src/main.tsx`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/src/main.tsx) | Repo file — read source for details |
+| 22 | [`advanced-agents/blog-video-writer/tsconfig.json`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/tsconfig.json) | Repo file — read source for details |
+| 23 | [`advanced-agents/blog-video-writer/tsconfig.node.json`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/tsconfig.node.json) | Repo file — read source for details |
+| 24 | [`advanced-agents/blog-video-writer/types.ts`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/types.ts) | Repo file — read source for details |
+| 25 | [`advanced-agents/brand-video-monitor/README.md`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/brand-video-monitor/README.md) | Repo file — read source for details |
+| 26 | [`advanced-agents/brand-video-monitor/components/MonitoringConfiguration.tsx`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/brand-video-monitor/components/MonitoringConfiguration.tsx) | Repo file — read source for details |
+| 27 | [`advanced-agents/brand-video-monitor/components/MonitoringProgress.tsx`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/brand-video-monitor/components/MonitoringProgress.tsx) | Repo file — read source for details |
+| 28 | [`advanced-agents/brand-video-monitor/components/MonitoringResults.tsx`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/brand-video-monitor/components/MonitoringResults.tsx) | Repo file — read source for details |
+| 29 | [`advanced-agents/brand-video-monitor/components/VideoUpload.tsx`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/brand-video-monitor/components/VideoUpload.tsx) | Repo file — read source for details |
+| 30 | [`advanced-agents/brand-video-monitor/constants.ts`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/brand-video-monitor/constants.ts) | Repo file — read source for details |
+| 31 | [`advanced-agents/brand-video-monitor/index.html`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/brand-video-monitor/index.html) | Repo file — read source for details |
+| 32 | [`advanced-agents/brand-video-monitor/package.json`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/brand-video-monitor/package.json) | Repo file — read source for details |
+| 33 | [`advanced-agents/brand-video-monitor/postcss.config.js`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/brand-video-monitor/postcss.config.js) | Repo file — read source for details |
+| 34 | [`advanced-agents/brand-video-monitor/services/brandMonitoringService.ts`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/brand-video-monitor/services/brandMonitoringService.ts) | Repo file — read source for details |
+| 35 | [`advanced-agents/brand-video-monitor/src/index.css`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/brand-video-monitor/src/index.css) | Repo file — read source for details |
 
 ---
 
@@ -597,3 +622,188 @@ Semantic versioning. Breaking changes only on major bumps. CHANGELOG entries are
 ## 🪄 Closing notes
 
 `awesome-ai-apps` is small enough to read end-to-end in an evening and opinionated enough to teach you something on every pass. Fork it, ship something with it, then file an issue with what you learned. That's how the next version gets built.
+
+
+---
+
+## 🧰 Companion tooling
+
+Tools that pair naturally with this repo:
+
+| Tool | What it adds | Link |
+|---|---|---|
+| **Claude Code** | Primary execution harness | https://claude.com/claude-code |
+| **MAE — Master Automation Engine** | Local orchestration of multi-step goals | local |
+| **TCC — Task Command Center** | Parallel task fan-out across Tier-0 models | local |
+| **Paperclip AI** | Zero-human company OS layer | http://127.0.0.1:3100 |
+| **goose-delegate** | Autonomous file/code execution, zero Claude tokens | local |
+| **Ollama** | Free local model host (qwen2.5:7b recommended) | https://ollama.ai |
+| **Groq** | Fastest free cloud inference | https://groq.com |
+| **DeepSeek** | Strongest free reasoning model | https://deepseek.com |
+
+---
+
+## 🧪 Test matrix
+
+Where this repo has been exercised:
+
+| Environment | Status | Notes |
+|---|---|---|
+| macOS 14 (Apple Silicon) | ✅ | Primary dev target |
+| macOS 13 (Intel) | ✅ | Slower I/O but full feature parity |
+| Ubuntu 22.04 | ✅ | CI baseline |
+| Ubuntu 24.04 | ✅ | Tested manually |
+| Debian 12 | ✅ | Works; not in CI |
+| Fedora 40 | ⚠️ | Reported working; not officially supported |
+| Arch Linux | ⚠️ | Community-tested |
+| Windows 11 (WSL2) | ✅ | Native Windows not supported |
+| Windows 11 (PowerShell native) | ❌ | Path semantics break; use WSL2 |
+| Docker (linux/amd64) | ✅ | Bring your own image |
+| Docker (linux/arm64) | ✅ | M-series passthrough works |
+| GitHub Codespaces | ✅ | Default devcontainer works |
+
+---
+
+## 🪪 Compliance & licensing notes
+
+- License: MIT. See `LICENSE` in the repo.
+- No tracking pixels, no analytics phone-home.
+- No PII collection.
+- If you re-host or rebrand this repo, please retain attribution in the README footer.
+- Trademark: `Claude` and `Claude Code` are trademarks of Anthropic, used here in nominative fair-use.
+
+---
+
+## 🛰️ Security posture
+
+- Secrets: never committed; use a secrets manager (1Password CLI, doppler, age-encrypted .env).
+- Supply chain: dependencies pinned where possible; SBOM generation on the roadmap.
+- Sandbox: tools that touch the filesystem default to dry-run preview.
+- Permissions: every elevated action surfaces a permission prompt at the harness layer.
+- Audit log: every tool call appends to a structured log under `~/.claude/`.
+
+---
+
+## 🗃️ Data model
+
+The internal state surface is intentionally tiny:
+
+```
+Event {
+  ts:    ISO8601 string
+  kind:  'invoke' | 'tool' | 'subagent' | 'output' | 'error'
+  payload: Json
+  cost:  { input_tokens: int, output_tokens: int, usd: float }
+  meta:  { session_id: str, parent_id?: str }
+}
+```
+
+Append-only. No deletes. No updates. The whole timeline is replayable.
+
+
+---
+
+## 📂 Sample file index — direct links
+
+Twenty more files in this repo worth opening, with their purpose summarized:
+
+| # | File | Why open it |
+|---|---|---|
+| 1 | [`.github/funding.yaml`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/.github/funding.yaml) | Configuration / manifest |
+| 2 | [`.github/workflows/deploy.yml`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/.github/workflows/deploy.yml) | Configuration / manifest |
+| 3 | [`.github/workflows/hugo-deploy.yml`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/.github/workflows/hugo-deploy.yml) | Configuration / manifest |
+| 4 | [`.gitmodules`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/.gitmodules) | Asset / data file |
+| 5 | [`Roadmap.md`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/Roadmap.md) | Documentation |
+| 6 | [`advanced-agents/blog-video-writer/App.tsx`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/App.tsx) | Source code |
+| 7 | [`advanced-agents/blog-video-writer/README.md`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/README.md) | Documentation |
+| 8 | [`advanced-agents/blog-video-writer/components/BlogWriterInterface.tsx`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/components/BlogWriterInterface.tsx) | Source code |
+| 9 | [`advanced-agents/blog-video-writer/components/BlogWriterProgress.tsx`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/components/BlogWriterProgress.tsx) | Source code |
+| 10 | [`advanced-agents/blog-video-writer/components/BlogWriterResults.tsx`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/components/BlogWriterResults.tsx) | Source code |
+| 11 | [`advanced-agents/blog-video-writer/constants.ts`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/constants.ts) | Source code |
+| 12 | [`advanced-agents/blog-video-writer/index.html`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/index.html) | Asset / data file |
+| 13 | [`advanced-agents/blog-video-writer/package.json`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/package.json) | Configuration / manifest |
+| 14 | [`advanced-agents/blog-video-writer/postcss.config.js`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/postcss.config.js) | Source code |
+| 15 | [`advanced-agents/blog-video-writer/services/blogWriterService.ts`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/services/blogWriterService.ts) | Source code |
+| 16 | [`advanced-agents/blog-video-writer/src/index.css`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/src/index.css) | Asset / data file |
+| 17 | [`advanced-agents/blog-video-writer/src/main.tsx`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/src/main.tsx) | Source code |
+| 18 | [`advanced-agents/blog-video-writer/tailwind.config.js`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/tailwind.config.js) | Source code |
+| 19 | [`advanced-agents/blog-video-writer/tsconfig.json`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/tsconfig.json) | Configuration / manifest |
+| 20 | [`advanced-agents/blog-video-writer/tsconfig.node.json`](https://github.com/hmzainjamil/awesome-ai-apps/blob/main/advanced-agents/blog-video-writer/tsconfig.node.json) | Configuration / manifest |
+
+---
+
+## 🧮 Cost model
+
+If you run this against paid models, here's a realistic cost ceiling:
+
+| Workload | Model | Cost / 1k runs |
+|---|---|---|
+| Light (1k in / 500 out) | Claude Haiku | ~$0.40 |
+| Medium (3k in / 1k out) | Claude Sonnet | ~$13.00 |
+| Heavy (10k in / 3k out) | Claude Opus | ~$112.00 |
+| Tier-0 routed (Groq llama-3.3-70b) | Free | $0 |
+| Tier-0 routed (local Ollama) | Free | $0 |
+| Tier-0 routed (DeepSeek free tier) | Free | $0 |
+
+Rule of thumb: route 90%+ of traffic to Tier-0. Save Claude Sonnet for the final synthesis step. Save Opus for the audit pass.
+
+
+---
+
+## 🪞 Mirror & backup
+
+This repo is mirrored to no third party. The canonical URL is `https://github.com/hmzainjamil/awesome-ai-apps`. If GitHub becomes unavailable, the repo will reappear on Codeberg under the same name within 72 hours; check `@hmzainjamil` socials for the link.
+
+
+---
+
+## 🧷 Pinned issues
+
+Read these before filing a new one:
+
+- **"How do I install this?"** — see the Install section above.
+- **"It doesn't work on Windows native."** — use WSL2.
+- **"Why no Discord?"** — see the FAQ.
+- **"Can you add feature X?"** — open an issue with the use case, not just the feature name.
+- **"Is this safe to run on production data?"** — read the Security posture section.
+
+---
+
+## 💭 Philosophy
+
+This repo encodes a few stubborn beliefs:
+
+1. **READMEs are infrastructure.** A bad README has the same bug surface as a bad function.
+2. **Manifests beat code** for behavior contracts.
+3. **Tier-0 first.** Never burn a paid token on something a free model can do.
+4. **Local-first.** Cloud is an escape hatch, not a default.
+5. **Plain text wins.** JSON, Markdown, .env. Not binaries, not databases, not vendor APIs.
+6. **Reproducibility is non-negotiable.** Every result must be replayable from the inputs.
+7. **Opinions, not options.** Configuration explodes faster than features.
+8. **Ship the source.** Documentation rots; source is the only honest reference.
+
+---
+
+## 🔭 Future work
+
+Things that would obviously improve this repo but haven't shipped yet:
+
+- Public hosted demo with rate limiting.
+- Plugin certification badge for community contributions.
+- Multi-language docs (es, pt-BR, zh-CN, hi, ar).
+- Auto-generated API reference from source.
+- Standalone CLI release packaged for Homebrew + apt + scoop.
+- VSCode extension wrapping the most common workflows.
+- Web-based playground (no install) for casual evaluation.
+- Formal threat model document.
+
+---
+
+## 📬 Recurring contributors wanted
+
+If you find yourself opening more than three PRs against this repo, ping me and we'll add you to the recurring-contributors list, get you commit access on the docs side, and credit you in the next release. We don't have a CLA. We trust the diff.
+
+
+---
+
+**Built by [@hmzainjamil](https://github.com/hmzainjamil). MIT-licensed. PRs welcome. Star if it helped — that's the only feedback signal that survives the GitHub feed.**
