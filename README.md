@@ -1,5 +1,9 @@
 # awesome-ai-apps
 
+<!-- HMZ PORTFOLIO STANDARD -->
+> Portfolio status: active · Visibility: public · Source of truth: current repository source.
+<!-- END HMZ PORTFOLIO STANDARD -->
+
 > **Production AI apps — the catalog with code, not just screenshots** — 400+ files of working AI applications: blog-video writer, brand-video monitor, agent systems, LLM SaaS scaffolds — each with full source
 
 <p align="center">
