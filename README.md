@@ -37,3 +37,7 @@ The GitHub Pages workflow builds a Hugo site from the repository. Individual exa
 
 See [SECURITY.md](SECURITY.md) for API-key, external-service, and example-review guidance.
 
+
+## README index
+
+Browse the [recursive README inventory](docs/README.md) for README Markdown files in this branch.
