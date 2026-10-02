@@ -1,3 +1,5 @@
+> Legacy case-variant README. Use the canonical [README.md](README.md) for the repository scope and current evidence. Claims on this page have not been revalidated.
+
 ![Awesome AI Apps](./docs/images/banner.gif)
 
 # Awesome AI Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
