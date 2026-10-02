@@ -4,7 +4,8 @@ Recursive tree inventory for branch `docs/catalog-scope-and-example-evidence`, c
 
 | File |
 |---|
-| [Repository README](../README.md) |
+| [Canonical repository README](../README.md) |
+| [Legacy case-variant README](../Readme.md) |
 | [advanced-agents/blog-video-writer/README.md](../advanced-agents/blog-video-writer/README.md) |
 | [advanced-agents/brand-video-monitor/README.md](../advanced-agents/brand-video-monitor/README.md) |
 | [multi-agent-teams/content-creation-team/README.md](../multi-agent-teams/content-creation-team/README.md) |
